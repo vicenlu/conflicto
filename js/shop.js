@@ -76,7 +76,7 @@ var total = 0;
 
 // Exercise 1
 function buy(id) {
-   const hola = "hola";
+   const holi = "hola";
 
 }
 
